@@ -7,11 +7,14 @@ find in RFC959).
 The network communication are achieved through the use of TCP sockets
 
 to launch:
-- make / make re
-
-./myftp port path
     
-    port is the port number on which the server socket listens
-    path is the path to the home directory for the Anonymous user
+    - make / make re
+    
+to build:
+
+    ./myftp port path
+    
+        port is the port number on which the server socket listens
+        path is the path to the home directory for the Anonymous user
     
 Aymeric Astaing - EPITECH PARIS PROMO 2022
