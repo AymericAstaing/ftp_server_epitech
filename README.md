@@ -1,4 +1,4 @@
-ftp_server_epitech (TECH 2 2018-2019)
+# ftp_server_epitech (TECH 2 2018-2019)
 
 The goal of this project is to create a FTP server.
 Program must implement the given protocol (bonuses must be RFC959 compliant).
