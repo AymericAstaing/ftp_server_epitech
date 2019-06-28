@@ -6,11 +6,11 @@ Program must implement request sequences that are explained in the protocol (mor
 find in RFC959).
 The network communication are achieved through the use of TCP sockets
 
-to launch:
+to build:
     
     - make / make re
     
-to build:
+to launch:
 
     ./myftp port path
     
