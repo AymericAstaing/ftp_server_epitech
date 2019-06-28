@@ -1,4 +1,4 @@
-matchstick_epitech (TECH 2 2018-2019)
+ftp_server_epitech (TECH 2 2018-2019)
 
 The goal of this project is to create a FTP server.
 Program must implement the given protocol (bonuses must be RFC959 compliant).
@@ -13,4 +13,4 @@ USAGE:
     port is the port number on which the server socket listens
     path is the path to the home directory for the Anonymous user
     
-Aymeric Astaing - EPITECH PARIS
+Aymeric Astaing - EPITECH PARIS PROMO 2022
